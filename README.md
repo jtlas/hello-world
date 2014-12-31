@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-your everyday repository
+Greetings Tralfamadorians,
+
+We are but bugs in amber.
